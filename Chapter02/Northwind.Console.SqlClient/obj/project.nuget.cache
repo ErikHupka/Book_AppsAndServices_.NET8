@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "egUwAmXw0CggTtUiDPPj3Er7bD5SmmMqrgq+9cn5PamXb6oRxxJ8lpYu2o5wElEVbKMBDItY3aAbOa/GGt3FaA==",
+  "dgSpecHash": "H+YP9AaJ1qMU5ltge3/DCBO/Di6nGDcUQnBlmPJCnA8R6Bx0C+gxvRDSPSW7A9iscQLhzqtuhWuJhzSw34StyA==",
   "success": true,
   "projectFilePath": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter02\\Northwind.Console.SqlClient\\Northwind.Console.SqlClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erik.hupka\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\erik.hupka\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
+    "C:\\Users\\erik.hupka\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\erik.hupka\\.nuget\\packages\\microsoft.data.sqlclient\\5.2.1\\microsoft.data.sqlclient.5.2.1.nupkg.sha512",

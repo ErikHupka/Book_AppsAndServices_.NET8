@@ -1,4 +1,6 @@
 ﻿using System.Globalization; // To use CultureInfo
+using Microsoft.Data.SqlClient; // To use SQLConnection
+using System.Collections; // To use IDictionary
 
 partial class Program
 {
@@ -20,5 +22,25 @@ partial class Program
         ForegroundColor = color;
         WriteLine(value);
         ForegroundColor = previousColor;
+    }
+
+    private static void OutputStatistics(SqlConnection connection)
+    {
+        // Remove all the string values to see all the statistics.
+        string[] includeKeys = [
+    "BytesSent", "BytesReceived", "ConnectionTime", "SelectRows"
+    ];
+
+        IDictionary statistics = connection.RetrieveStatistics();
+        foreach (object? key in statistics.Keys)
+        {
+            if (includeKeys.Length == 0 || includeKeys.Contains(key))
+            {
+                if (int.TryParse(statistics[key]?.ToString(), out int value))
+                {
+                    WriteLineInColor($"{key}: {value:N0}", ConsoleColor.Cyan);
+                }
+            }
+        }
     }
 }
