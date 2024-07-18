@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.EFCore", "Northwind.Console.EFCore\Northwind.Console.EFCore.csproj", "{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Console.EFCore", "Northwind.Console.EFCore\Northwind.Console.EFCore.csproj", "{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Console.HierarchyMapping", "Northwind.Console.HierarchyMapping\Northwind.Console.HierarchyMapping.csproj", "{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

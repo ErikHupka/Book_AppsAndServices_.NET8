@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}|Northwind.Console.EFCore\\Northwind.Console.EFCore.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.console.efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}|Northwind.Console.EFCore\\Northwind.Console.EFCore.csproj|solutionrelative:northwind.console.efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.console.hierarchymapping\\models\\hierarchydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|solutionrelative:northwind.console.hierarchymapping\\models\\hierarchydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}|Northwind.Console.EFCore\\Northwind.Console.EFCore.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.console.efcore\\models\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9997C2A3-A47B-42B1-B5AC-AC005BF6A19A}|Northwind.Console.EFCore\\Northwind.Console.EFCore.csproj|solutionrelative:northwind.console.efcore\\models\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.console.hierarchymapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|solutionrelative:northwind.console.hierarchymapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HierarchyDb.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
+              "RelativeDocumentMoniker": "Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
+              "RelativeToolTip": "Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:04:05.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind.Console.HierarchyMapping\\Program.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Program.cs",
+              "RelativeToolTip": "Northwind.Console.HierarchyMapping\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:59:23.837Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -27,32 +53,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NorthwindDb.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.EFCore\\Models\\NorthwindDb.cs",
-              "RelativeDocumentMoniker": "Northwind.Console.EFCore\\Models\\NorthwindDb.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.EFCore\\Models\\NorthwindDb.cs",
-              "RelativeToolTip": "Northwind.Console.EFCore\\Models\\NorthwindDb.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAFQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:22:41.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.EFCore\\Program.cs",
-              "RelativeDocumentMoniker": "Northwind.Console.EFCore\\Program.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.EFCore\\Program.cs",
-              "RelativeToolTip": "Northwind.Console.EFCore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:04:04.199Z",
-              "EditorCaption": ""
             }
           ]
         }
