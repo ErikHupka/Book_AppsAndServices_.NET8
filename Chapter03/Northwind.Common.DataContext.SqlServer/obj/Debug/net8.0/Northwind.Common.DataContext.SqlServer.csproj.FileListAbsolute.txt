@@ -1,0 +1,16 @@
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.deps.json
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.sourcelink.json
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwin.540084DC.Up2Date
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\refint\Northwind.Common.DataContext.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\ref\Northwind.Common.DataContext.SqlServer.dll

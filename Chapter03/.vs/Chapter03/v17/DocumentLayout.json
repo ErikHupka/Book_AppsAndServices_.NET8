@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.console.hierarchymapping\\models\\hierarchydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|solutionrelative:northwind.console.hierarchymapping\\models\\hierarchydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A1BA5BE-3C18-4F7D-89F0-75059ADCD37E}|Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.common.datacontext.sqlserver\\northwindcontextpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1BA5BE-3C18-4F7D-89F0-75059ADCD37E}|Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|solutionrelative:northwind.common.datacontext.sqlserver\\northwindcontextpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.console.hierarchymapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1E75B5-DDB7-4BD3-B577-7DC5C0052BA3}|Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj|solutionrelative:northwind.console.hierarchymapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A1BA5BE-3C18-4F7D-89F0-75059ADCD37E}|Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.common.datacontext.sqlserver\\northwindcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1BA5BE-3C18-4F7D-89F0-75059ADCD37E}|Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|solutionrelative:northwind.common.datacontext.sqlserver\\northwindcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1BA5BE-3C18-4F7D-89F0-75059ADCD37E}|Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.common.datacontext.sqlserver\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1BA5BE-3C18-4F7D-89F0-75059ADCD37E}|Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj|solutionrelative:northwind.common.datacontext.sqlserver\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B651562-6B01-448D-9C2F-B0ECA3E0D154}|Northwind.Common.EntityModels.Tests\\Northwind.Common.EntityModels.Tests.csproj|c:\\visualstudio projects\\appsandserviceswith_net8\\chapter03\\northwind.common.entitymodels.tests\\northwindentitymodelstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B651562-6B01-448D-9C2F-B0ECA3E0D154}|Northwind.Common.EntityModels.Tests\\Northwind.Common.EntityModels.Tests.csproj|solutionrelative:northwind.common.entitymodels.tests\\northwindentitymodelstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HierarchyDb.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
-              "RelativeDocumentMoniker": "Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
-              "RelativeToolTip": "Northwind.Console.HierarchyMapping\\Models\\HierarchyDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Title": "NorthwindContextPartial.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContextPartial.cs",
+              "RelativeDocumentMoniker": "Northwind.Common.DataContext.SqlServer\\NorthwindContextPartial.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContextPartial.cs",
+              "RelativeToolTip": "Northwind.Common.DataContext.SqlServer\\NorthwindContextPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:04:05.947Z",
+              "WhenOpened": "2024-07-23T15:21:35.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Program.cs",
-              "RelativeDocumentMoniker": "Northwind.Console.HierarchyMapping\\Program.cs",
-              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Program.cs",
-              "RelativeToolTip": "Northwind.Console.HierarchyMapping\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Title": "NorthwindContextExtensions.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "RelativeDocumentMoniker": "Northwind.Common.DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "RelativeToolTip": "Northwind.Common.DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:59:23.837Z",
+              "WhenOpened": "2024-07-23T15:21:27.978Z",
               "EditorCaption": ""
             },
             {
@@ -51,8 +59,30 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Northwind.Common.DataContext.SqlServer\\NorthwindContext.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.DataContext.SqlServer\\NorthwindContext.cs",
+              "RelativeToolTip": "Northwind.Common.DataContext.SqlServer\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:21:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindEntityModelsTests.cs",
+              "DocumentMoniker": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.EntityModels.Tests\\NorthwindEntityModelsTests.cs",
+              "RelativeDocumentMoniker": "Northwind.Common.EntityModels.Tests\\NorthwindEntityModelsTests.cs",
+              "ToolTip": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Common.EntityModels.Tests\\NorthwindEntityModelsTests.cs",
+              "RelativeToolTip": "Northwind.Common.EntityModels.Tests\\NorthwindEntityModelsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:20:38.269Z",
+              "EditorCaption": ""
             }
           ]
         }

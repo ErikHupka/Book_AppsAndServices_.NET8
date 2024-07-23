@@ -1,0 +1,15 @@
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.deps.json
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.sourcelink.json
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+C:\VisualStudio Projects\AppsAndServicesWith_NET8\Chapter03\Northwind.Common.EntityModels.SqlServer\obj\Debug\net8.0\ref\Northwind.Common.EntityModels.SqlServer.dll

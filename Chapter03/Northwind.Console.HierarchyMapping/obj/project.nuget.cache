@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OymrZWpkq0swGB0GznfECn2a8Wzo/KFMLOrLO9/nJerKhuDE5WeFUJmJMDQmQafskQ7fqaKLOSYKrBazdd99Uw==",
+  "dgSpecHash": "pbnI7mbvUbLDQdp4QnqsPnm16PWphvhbf1ISFLHaRP22e8k3ZRNYcFOuK4fgksNaG3OorCU3bMl4DFFlc4GVIQ==",
   "success": true,
   "projectFilePath": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.HierarchyMapping\\Northwind.Console.HierarchyMapping.csproj",
   "expectedPackageFiles": [

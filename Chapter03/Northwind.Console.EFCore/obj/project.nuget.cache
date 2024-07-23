@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mjWEjblUQE3gpmFlVeN5nqVnAEKmpztCbUeBYDE0cbIDNgyBd0+Ya6sdg9Iz3wuTD8/R+/Fw0xHarFNJu1zVyg==",
+  "dgSpecHash": "YdMT1y4nShrw+qIGJg6bs6DGPvc9pxsry+Oed3uqt1IKaQ3B7BjQKgV+WKaXrDST4hOsYsgTwSW6PF6WgcV7jw==",
   "success": true,
   "projectFilePath": "C:\\VisualStudio Projects\\AppsAndServicesWith_NET8\\Chapter03\\Northwind.Console.EFCore\\Northwind.Console.EFCore.csproj",
   "expectedPackageFiles": [
